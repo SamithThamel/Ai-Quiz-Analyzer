@@ -9,7 +9,7 @@ import sys
 # ==========================================
 # CONFIGURATION
 # ==========================================
-GEMINI_API_KEY = "AIzaSyAL-lOdEbcjjUP1wE3LYLASbHuyJTeyJiY"
+GEMINI_API_KEY = "#######ADD YOUR API KEY HERE#####"
 
 # Configure CustomTkinter theme and color
 ctk.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
